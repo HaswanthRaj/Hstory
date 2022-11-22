@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275575727949",
+    "firebase_url": "https://hstory-db30d-default-rtdb.firebaseio.com",
+    "project_id": "hstory-db30d",
+    "storage_bucket": "hstory-db30d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275575727949:android:4b3e86c19663adefb7f904",
+        "android_client_info": {
+          "package_name": "com.rextrixdev.hstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275575727949-49n84ort9ab33doeq7uvn2en4u21js01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLM6xed_qKfP2PKt69P__k3sA7O0Bexi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275575727949-49n84ort9ab33doeq7uvn2en4u21js01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
